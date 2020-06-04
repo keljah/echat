@@ -1,4 +1,4 @@
-
+// and this are my functions
 var firebaseConfig = {
     apiKey: "AIzaSyDTKRl8ARajsdHbXqVhiWaTYDWRVx_RNvU",
     authDomain: "hardwarestore-53b32.firebaseapp.com",
